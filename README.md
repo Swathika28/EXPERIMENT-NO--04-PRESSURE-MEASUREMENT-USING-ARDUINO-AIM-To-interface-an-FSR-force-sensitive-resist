@@ -141,7 +141,7 @@ void loop()
 
 
 ### Output
-![output](pres11.png)
+![output] (pres11.png)
 
 ### Result:
 Thus the interface an FSR(force sensitive resistor) is simulated int tinkerCAD.

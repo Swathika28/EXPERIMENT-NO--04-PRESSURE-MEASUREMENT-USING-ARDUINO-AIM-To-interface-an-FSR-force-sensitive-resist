@@ -140,6 +140,7 @@ void loop()
 }
 
 
+<<<<<<< HEAD
 ### Output:
 ![output](pres11.png)
 
